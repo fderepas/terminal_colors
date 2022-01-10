@@ -1,3 +1,4 @@
+// compile with gcc -o tc terminal_colors.c
 #include <stdio.h>
 #include <stdlib.h>
 
