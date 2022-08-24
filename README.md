@@ -1,5 +1,5 @@
 # terminal_colors
-A simple Bash, C, JS or Python code to display colors in the terminal. Output of each scipt is:
+A simple Bash, C, JS or Python code to display colors in the terminal. Output of each script is:
 
 ![all colors](https://github.com/fderepas/terminal_colors/blob/main/colors.png?raw=true)
  
